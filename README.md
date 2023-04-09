@@ -1,5 +1,5 @@
 ### About Me
-- [linkedin/shahjalalshohag](https://www.linkedin.com/in/shas9/)
+- [linkedin/shas9](https://www.linkedin.com/in/shas9/)
 
 ### My Github Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=shas9&show_icons=true&count_private=true&theme=dark" alt="ShahwatHasnaine" />
@@ -22,7 +22,7 @@
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shas9&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)
  
  <!-- ACTIVITY GRAPH TRACKER -->
-[![activity graph](https://activity-graph.herokuapp.com/graph?username=shas9&theme=react-dark)](https://github.com/ShahjalalShohag/github-readme-activity-graph)
+[![activity graph](https://activity-graph.herokuapp.com/graph?username=shas9&theme=react-dark)](https://github.com/shas9/github-readme-activity-graph)
  
  <!--  TOP LANGUAGES STATISTICS -->
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shas9&theme=dark&layout=compact&align=right&width=40%)](https://github.com/shas9/github-readme-stats)

@@ -14,7 +14,7 @@ Full time programmer, part time human.
 ## My Handles
  [<img src="https://img.shields.io/badge/shas9-151515?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/shas9/)
  [<img src="https://img.shields.io/badge/shas9-151515?style=for-the-badge&logo=SVG&logoColor=79740e">](https://profile-summary-for-github.com/user/shas9) 
- [<img src="https://img.shields.io/badge/hasnaine_-151515?style=for-the-badge&logo=SVG&logoColor=79740e">](https://codeforces.com/profile/hasnaine_) 
+ [<img src="https://img.shields.io/badge/hasnaine__-151515?style=for-the-badge&logo=SVG&logoColor=79740e">](https://codeforces.com/profile/hasnaine_) 
 
 ![Profile views](https://gpvc.arturio.dev/shas9)
  

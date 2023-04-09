@@ -1,5 +1,5 @@
 ### About Me
-- [linkedin/shas9](https://www.linkedin.com/in/shas9/)
+Full time programmer, part time human.
 
 ### My Github Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=shas9&show_icons=true&count_private=true&theme=dark" alt="ShahwatHasnaine" />
